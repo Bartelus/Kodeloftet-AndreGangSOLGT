@@ -8,6 +8,15 @@ color: rgb(16, 51, 51);
 margin-top: 100px;
 }
 
+aside {margin-left: 100px;}
+
 .background-blue {background-color: aqua;}
 
-img {width: 400px;}
+.X-button {background-color: rgb(219, 17, 17);
+block-size: 50px;
+width: 50px;
+font-size: 40px;
+color: yellow;
+border-color: gold;}
+
+img {width: 400px}
